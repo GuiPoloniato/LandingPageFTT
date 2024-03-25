@@ -1,12 +1,12 @@
 /*  CABEÇALHO   */
-.header {
+.main-page {
     display: flex;
     background-color: #191C1F;
     width: 100%;
     height: 100vh;
 }
 
-.section-header {
+.section-page {
     display: flex;
     align-items: center;
     box-sizing: border-box;

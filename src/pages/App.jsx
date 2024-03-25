@@ -17,8 +17,8 @@ import Comecar from '../Buttons/comecar';
 export default function App(){
     return(
         <div className="body">
-            <div className="header">
-                <section className="section-header">
+            <div className="main-page">
+                <section className="section-page">
                     <div className="row">
                         <div className="colum">
                             <span className="caixa-texto">

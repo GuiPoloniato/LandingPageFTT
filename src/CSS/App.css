@@ -134,11 +134,11 @@ input[type=button]:hover {
         margin-top: 50px;
     }
 
-    .header {
+    .main-page {
         height: 100%;
     }
 
-    section.section-header {
+    section.section-page {
         margin-bottom: 60px;
     }
 
